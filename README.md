@@ -1,3 +1,16 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+||HOW TO DOWNLOAD AND PLAY THE GAME||:
+
+1:Download The-Ring and save it anywhere on your device
+
+2:Unzip the folder in your files
+
+3:Run the game in game.py (game.functions.py houses all the code while game.py is where your supposed to run it)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Currently the game is unfinished, but right now you can do battles with the one class in the game, the Fighter.
 
 What you can do:
